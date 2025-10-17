@@ -9,6 +9,7 @@ function App() {
     <>
       <h1>hiiii </h1>
       <p>motu</p>
+      <h2>kotu</h2>
     </>
   )
 }
