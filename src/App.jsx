@@ -10,6 +10,7 @@ function App() {
       <h1>hiiii </h1>
       <p>motu</p>
       <h2>kotu</h2>
+      <h3>botu</h3>
     </>
   )
 }
